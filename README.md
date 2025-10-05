@@ -80,10 +80,10 @@ The project showcases:
 <h1 align="center">Project Pictures 🖼️</h1>
 
 <div align="center">
-  <img src="/home-page.png" width="700px" />
+  <img src="/pic1.png" width="700px" />
   <br/> <br/>
   <hr/>
   <br/> <br/>
-  <img src="/product-details.png" width="700px" />
+  <img src="/pic2.png" width="700px" />
   <br/> <br/>
 </div>
