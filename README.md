@@ -1,6 +1,6 @@
 <div>
   <h1>Click on the GitHub icon below to view the project online.</h1>
-  <a href="https://github.com/hamiparsa/DastoDo">
+  <a href="https://68e275dd8eb29772d65fdb15--delightful-wisp-111a27.netlify.app/">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
