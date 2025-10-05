@@ -1,36 +1,92 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div>
+  <h1>Click on the GitHub icon below to view the project online.</h1>
+  <a href="https://github.com/hamiparsa/DastoDo">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
-## Getting Started
+# DastoDo 🛍️🔄
 
-First, run the development server:
+DastoDo is a modern, interactive second-hand marketplace web application built with React, Next.js, and TypeScript. Users can post, view, and manage second-hand product listings. The project demonstrates advanced front-end skills with a polished, responsive UI using Tailwind CSS, Framer Motion, and React Icons.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<ul>
+  <li>Post second-hand items with title, description, price, category, and optional image</li>
+  <li>Listings are persisted in localStorage, so refreshing the page doesn't erase them</li>
+  <li>Search and filter products by title, description, or category</li>
+  <li>Edit or delete listings</li>
+  <li>View detailed product page with fancy animations and interactive UI</li>
+  <li>Responsive design for mobile, tablet, and desktop</li>
+  <li>Animated card entry and hover effects with Framer Motion</li>
+  <li>Modern UI with gradients, shadows, rounded cards, and hover transitions</li>
+</ul>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Technologies Used:
 
-To learn more about Next.js, take a look at the following resources:
+<ul>
+  <li>
+    React for building UI components
+    <img width='20px' src='https://skillicons.dev/icons?i=react'>
+  </li>
+  <li>
+    Next.js for routing and server-side rendering
+    <img width='20px' src='https://skillicons.dev/icons?i=next'>
+  </li>
+  <li>
+    TypeScript for type safety
+    <img width='20px' src='https://skillicons.dev/icons?i=typescript'>
+  </li>
+  <li>
+    Tailwind CSS for fast and responsive styling
+    <img width='20px' src='https://skillicons.dev/icons?i=tailwindcss'>
+  </li>
+  <li>
+    Framer Motion for smooth animations
+    <img width='20px' src='https://skillicons.dev/icons?i=framer'>
+  </li>
+  <li>
+    React Icons for scalable vector icons
+    <img width='20px' src='https://skillicons.dev/icons?i=react'>
+  </li>
+</ul>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Description:
 
-## Deploy on Vercel
+DastoDo is a second-hand product marketplace with a modern, responsive design. Users can:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Post items with title, description, price, category, and optional image  
+- Browse listings with filters and search functionality  
+- Click on a listing to view detailed product information with animation  
+- Edit or delete their listings  
+- Persist data using localStorage for offline-friendly operation  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The project showcases:
+
+- Polished, modern UI with Tailwind CSS and gradient cards  
+- Interactive animations for cards and pages using Framer Motion  
+- Client-side navigation and routing with Next.js  
+- Full CRUD-like experience (Create, Read, Update, Delete) with localStorage  
+- Professional front-end design with React and TypeScript  
+
+---
+
+<h1 align="center">Project Pictures 🖼️</h1>
+
+<div align="center">
+  <img src="/home-page.png" width="700px" />
+  <br/> <br/>
+  <hr/>
+  <br/> <br/>
+  <img src="/product-details.png" width="700px" />
+  <br/> <br/>
+  <hr/>
+  <br/> <br/>
+  <img src="/add-listing.png" width="700px" />
+</div>
