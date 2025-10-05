@@ -86,7 +86,4 @@ The project showcases:
   <br/> <br/>
   <img src="/product-details.png" width="700px" />
   <br/> <br/>
-  <hr/>
-  <br/> <br/>
-  <img src="/add-listing.png" width="700px" />
 </div>
