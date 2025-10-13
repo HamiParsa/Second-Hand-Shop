@@ -1,24 +1,27 @@
-<div>
-  <h1>Click on the GitHub icon below to view the project online.</h1>
+<div align="center">
+  <h1>🛍️ DastoDo</h1>
+  <p>Modern, interactive second-hand marketplace web application ✨</p>
   <a href="https://68e275dd8eb29772d65fdb15--delightful-wisp-111a27.netlify.app/">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_Live_Project-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
-# DastoDo 🛍️🔄
+---
 
-DastoDo is a modern, interactive second-hand marketplace web application built with React, Next.js, and TypeScript. Users can post, view, and manage second-hand product listings. The project demonstrates advanced front-end skills with a polished, responsive UI using Tailwind CSS, Framer Motion, and React Icons.
+## 📝 About the Project
+
+**DastoDo** is a modern, interactive second-hand marketplace web app built with **React, Next.js, TypeScript, Tailwind CSS, Framer Motion, and React Icons**. Users can post, view, edit, and manage second-hand product listings in a responsive and polished UI.
 
 ---
 
-## Features:
+## ✨ Features
 
 <ul>
-  <li>Post second-hand items with title, description, price, category, and optional image</li>
-  <li>Listings are persisted in localStorage, so refreshing the page doesn't erase them</li>
+  <li>Post items with title, description, price, category, and optional image</li>
+  <li>Listings persisted in localStorage for refresh-safe operation</li>
   <li>Search and filter products by title, description, or category</li>
   <li>Edit or delete listings</li>
-  <li>View detailed product page with fancy animations and interactive UI</li>
+  <li>Detailed product page with interactive animations</li>
   <li>Responsive design for mobile, tablet, and desktop</li>
   <li>Animated card entry and hover effects with Framer Motion</li>
   <li>Modern UI with gradients, shadows, rounded cards, and hover transitions</li>
@@ -26,64 +29,59 @@ DastoDo is a modern, interactive second-hand marketplace web application built w
 
 ---
 
-## Technologies Used:
+## 🧰 Tech Stack
 
-<ul>
-  <li>
-    React for building UI components
-    <img width='20px' src='https://skillicons.dev/icons?i=react'>
-  </li>
-  <li>
-    Next.js for routing and server-side rendering
-    <img width='20px' src='https://skillicons.dev/icons?i=next'>
-  </li>
-  <li>
-    TypeScript for type safety
-    <img width='20px' src='https://skillicons.dev/icons?i=typescript'>
-  </li>
-  <li>
-    Tailwind CSS for fast and responsive styling
-    <img width='20px' src='https://skillicons.dev/icons?i=tailwindcss'>
-  </li>
-  <li>
-    Framer Motion for smooth animations
-    <img width='20px' src='https://skillicons.dev/icons?i=framer'>
-  </li>
-  <li>
-    React Icons for scalable vector icons
-    <img width='20px' src='https://skillicons.dev/icons?i=react'>
-  </li>
-</ul>
+| Technology | Purpose |
+|------------|---------|
+| ⚛️ **React** | Building interactive UI components |
+| 🧭 **Next.js** | Routing and server-side rendering |
+| 🟦 **TypeScript** | Type safety and maintainable code |
+| 🎨 **Tailwind CSS** | Responsive styling and modern UI |
+| 🪄 **Framer Motion** | Smooth animations and transitions |
+| 🛠️ **React Icons** | Scalable vector icons |
 
 ---
 
-## Description:
+## 💡 Description
 
-DastoDo is a second-hand product marketplace with a modern, responsive design. Users can:
+**DastoDo** lets users:
 
-- Post items with title, description, price, category, and optional image  
-- Browse listings with filters and search functionality  
-- Click on a listing to view detailed product information with animation  
+- Post second-hand items with details and optional images  
+- Browse listings with search and category filters  
+- View interactive product pages with smooth animations  
 - Edit or delete their listings  
-- Persist data using localStorage for offline-friendly operation  
+- Persist data using localStorage  
 
 The project showcases:
 
 - Polished, modern UI with Tailwind CSS and gradient cards  
-- Interactive animations for cards and pages using Framer Motion  
-- Client-side navigation and routing with Next.js  
-- Full CRUD-like experience (Create, Read, Update, Delete) with localStorage  
-- Professional front-end design with React and TypeScript  
+- Interactive animations using Framer Motion  
+- Client-side routing with Next.js  
+- Full CRUD-like experience with localStorage  
+- Professional front-end development with React and TypeScript  
 
 ---
 
-<h1 align="center">Project Pictures 🖼️</h1>
+## 🖼️ Project Preview
 
 <div align="center">
   <img src="/pic1.png" width="700px" />
-  <br/> <br/>
+  <br/><br/>
   <hr/>
-  <br/> <br/>
+  <br/><br/>
   <img src="/pic2.png" width="700px" />
-  <br/> <br/>
+  <br/><br/>
+</div>
+
+---
+
+## 👨‍💻 Author
+
+**Developed by:** [Hami Parsa](https://github.com/hamiparsa)  
+💬 Front-End Developer | Passionate about interactive web applications  
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,framer" />
 </div>
